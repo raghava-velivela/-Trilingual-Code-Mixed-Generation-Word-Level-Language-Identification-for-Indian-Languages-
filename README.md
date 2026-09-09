@@ -1,0 +1,2 @@
+# -Trilingual-Code-Mixed-Generation-Word-Level-Language-Identification-for-Indian-Languages-
+This repository presents our work for TriMixGen-Indic @ FIRE 2026, covering trilingual code-mixed sentence generation and word-level language identification using Roman-script inputs for English–Hindi–Bengali and English–Hindi–Gujarati. We explored zero-shot, few-shot, knowledge distillation, and embedding-based approaches.
